@@ -14,4 +14,4 @@ resolvers += ("Typesafe repository" at "http://repo.typesafe.com/typesafe/releas
 
 libraryDependencies += "com.mchange" %% "consuela" % "$consuela_version$"
 
-
+ethPackageScalaStubs := "$scala_stubs_package$"
