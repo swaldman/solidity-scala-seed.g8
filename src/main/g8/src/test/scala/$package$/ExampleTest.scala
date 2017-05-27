@@ -1,4 +1,0 @@
-package $package$
-
-object ExampleTest {
-}
