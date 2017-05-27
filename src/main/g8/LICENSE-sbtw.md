@@ -1,4 +1,4 @@
-### `sbt-bootstrap`
+### `sbtw`
 
 - Taken from https://github.com/paulp/sbt-extras/blob/master/sbt
 - Written by Paul Phillips <paulp@improving.org>
