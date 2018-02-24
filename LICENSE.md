@@ -1,6 +1,6 @@
 # License
 
-### All files EXCEPT `sbt-bootstrap`
+### All files EXCEPT `sbtw`
 
 Written in 2017 by Steve Waldman <swaldman@mchange.com>
 
@@ -8,7 +8,7 @@ To the extent possible under law, the author(s) have dedicated all copyright and
 and neighboring rights to this template to the public domain worldwide.
 This template is distributed without any warranty. See [CC0 1.0](http://creativecommons.org/publicdomain/zero/1.0/).
 
-### `sbt-bootstrap`
+### `sbtw`
 
 - Taken from https://github.com/paulp/sbt-extras/blob/master/sbt
 - Written by Paul Phillips <paulp@improving.org>
