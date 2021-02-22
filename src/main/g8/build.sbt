@@ -10,6 +10,6 @@ resolvers += ("releases" at "https://oss.sonatype.org/service/local/staging/depl
 
 resolvers += ("snapshots" at "https://oss.sonatype.org/content/repositories/snapshots")
 
-resolvers += ("Typesafe repository" at "http://repo.typesafe.com/typesafe/releases/")
+resolvers += ("Typesafe repository" at "https://repo.typesafe.com/typesafe/releases/")
 
 ethcfgScalaStubsPackage := "$scala_stubs_package$"
